@@ -1,6 +1,9 @@
 # Hello there
 
-My name is **Lisa Rosanty**, you can call me **Lisa**. I come from Indonesia :indonesia: and I've lived for almost one a half year in Leuven. Currently, I'm studying Sustainable Development at KU Leuven. I :gift_heart: **travelling** :world_map:, **reading books** :books:, and **watching movies** or tv series :film_strip:
+My name is **Lisa Rosanty**, you can call me **Lisa**. 
+I come from Indonesia :indonesia: and I've lived for almost one a half year in Leuven.
+Currently, I'm studying Sustainable Development at KU Leuven.
+I :gift_heart: **travelling** :world_map:, **reading books** :books:, and **watching movies** or tv series :film_strip:
 
 _**Catch me on my social media:**_
 
@@ -18,8 +21,8 @@ _**My favorite books:**_
 
 _**My favorite countries (I've visited) so far:**_
 
-- **Italy** :italy: (Love everything about it)
-- **Sweden** :sweden: for it's Lagom Life
+- **Italy** :it: (Love everything about it)
+- **Sweden** :sweden: for its Lagom Life
 - **Indonesia** :indonesia: for its food and nature attractions
 ![My country Indonesia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/PIAYNEMO.jpg/800px-PIAYNEMO.jpg)
 
