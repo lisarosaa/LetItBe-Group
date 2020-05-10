@@ -3,7 +3,7 @@
 My name is **Lisa Rosanty**, you can call me **Lisa**. 
 I come from Indonesia :indonesia: and I've lived for almost one a half year in Leuven.
 Currently, I'm studying Sustainable Development at KU Leuven.
-I :gift_heart: **travelling** :world_map:, **reading books** :books:, and **watching movies** or tv series :film_strip:
+I :gift_heart: **travelling** :world_map:, **reading books** :books:, and **watching movies** or **tv series** :film_strip:
 
 _**Catch me on my social media:**_
 
