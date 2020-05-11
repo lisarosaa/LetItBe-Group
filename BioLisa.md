@@ -1,34 +1,14 @@
 # Hello there
 
-My name is **Lisa Rosanty**, you can call me **Lisa**. 
-I come from Indonesia :indonesia: and I've lived for almost one a half year in Leuven.
-Currently, I'm studying Sustainable Development at KU Leuven.
-I :gift_heart: **travelling** :world_map:, **reading books** :books:, and **watching movies** or **tv series** :film_strip:
+My name is **Lisa Rosanty**, you can call me **Lisa**.
 
-_**Catch me on my social media:**_
+I come from Indonesia :Indonesia: and I have lived in Belgium for almost 1,5 years while studying Sustainable Development at KU Leuven.
 
-- [Instagram](https://www.instagram.com/lisarosaa/?hl=en)
-- [GitHub](https://github.com/lisarosaa)
-- [Facebook](https://www.facebook.com/lisarosaa)
+I would like to use my programming skills for addressing urban problems or solving sustainable issues (because it is my background academic)
 
-_**My favorite books:**_
+![IMG_6923](https://user-images.githubusercontent.com/63754597/81569011-ef78ab00-939e-11ea-9ee4-27ae85c42a11.JPG)
 
-- A Song of Ice and Fire
-- The Lord of the Rings Trilogy
-- All Harry Potter books
-- Pride and Prejudice
-- and many more
-
-_**My favorite countries (I've visited) so far:**_
-
-- **Italy** :it: (Love everything about it)
-- **Sweden** :sweden: for its Lagom Life
-- **Indonesia** :indonesia: for its food and nature attractions
-![My country Indonesia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/PIAYNEMO.jpg/800px-PIAYNEMO.jpg)
-
-
-_**My favorite quotes By Mark Twain:**_
->“Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.”
-
+My favorite quote:
+“Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.” – Mark Twain
 
 [Back to Readme](./README.md)
