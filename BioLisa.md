@@ -9,6 +9,6 @@ I would like to use my programming skills for addressing urban problems or solvi
 ![IMG_6923](https://user-images.githubusercontent.com/63754597/81569011-ef78ab00-939e-11ea-9ee4-27ae85c42a11.JPG)
 
 My favorite quote:
-“Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.” – Mark Twain
+>“Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.” – Mark Twain
 
 [Back to Readme](./README.md)
