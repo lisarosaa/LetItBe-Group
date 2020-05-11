@@ -13,7 +13,7 @@ We are the new students of **Hack Your Future Belgium** Class 9/10.
 Get to know more about us:
 
 - [Lisa](./BioLisa.md)
-- [Mari]
-- [Abel]
-- [Sayed]
-- [Galal]
+- [Mari](./BioMari.md)
+- [Abel](./BioAbel.md)
+- [Sayed](./BioSayed.md)
+- [Galal](./BioGalal.md)
